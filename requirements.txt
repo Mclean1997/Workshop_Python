@@ -1,1 +1,14 @@
-
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+xgboost
+sweetviz
+ydata-profiling
+openpyxl
+pyreadr
+scipy
+joblib
